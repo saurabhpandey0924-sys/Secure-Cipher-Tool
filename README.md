@@ -1,4 +1,4 @@
-# 🔐 DecodeLabs — Secure Cipher Tool
+# 🔐 Saurabh — Secure Cipher Tool
 
 A password-based encryption tool built in Python using **PBKDF2-HMAC-SHA256 + XOR + HMAC** — no external libraries required.
 
